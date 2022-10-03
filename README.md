@@ -4,7 +4,7 @@
 1. Создать дерикторию, файлы html, css. Подключить стили в html
 2. Создать структуру 
 ![image](https://user-images.githubusercontent.com/113675674/193545855-1778c8d7-dc4a-465f-a298-f8082fcb258d.png)
-3. Блок wrapper-title
+3. Блок wrapper-title  
   3.1 фон цвет background-color: antiquewhite;
   3.2 border-radius: 15px;
   3.3 ширина блока 600px
