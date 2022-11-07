@@ -23,7 +23,7 @@
   5.3 отступы margin: 10px auto; padding: 15px;  
   5.4 для элементов блока(ссылок) цвет фона blanchedalmond; и отступы padding: 10px;  
   5.5 для того чтобы убрать подчеркивание у ссылок использовать text-decoration: none;  
-  5.6 сделать border
+  5.6 сделать border: 1px solid black;
 
 
 # Home tasks
