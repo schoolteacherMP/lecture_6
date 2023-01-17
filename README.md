@@ -1,3 +1,4 @@
+# lecture_6    
 # Самостоятельна работа
 ![image](https://user-images.githubusercontent.com/113675674/193549179-903ba7eb-852b-411d-9e82-359a3aff32fc.png)
 
